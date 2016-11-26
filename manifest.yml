@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: IOTCAR-Vivian
-  host: ADMINIB-N248QQF
+  host: IOTCAR-Vivian
   disk_quota: 1024M
